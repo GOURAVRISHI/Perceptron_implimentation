@@ -19,3 +19,11 @@ conda activate ./perceptron
 
 touch (filename) 
 '''
+
+'''
+## make directory command in git bash -
+
+mkdir research_perceptron
+cd research_perceptron/
+jupyter-notebook
+'''
